@@ -8,4 +8,3 @@
 
 Việc dùng **Terraform Cloud VCS** để xây dựng CI/CD rất dễ dàng, chỉ cần tạo 1
 Github Repo và liên kết nó với Terraform Cloud
-# cicd_terraform_cloud
